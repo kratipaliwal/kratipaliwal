@@ -93,6 +93,18 @@ I enjoy turning messy operational data into trusted analytical products: dimensi
 
 ---
 
+## Open Source
+
+I recently contributed to [OpenMetadata](https://github.com/open-metadata/OpenMetadata), an open-source metadata platform for data discovery, lineage, governance, and observability.
+
+| Contribution | Status | PR |
+|---|---|---|
+| Added support for ingesting **BigQuery user-defined functions** alongside stored procedures and table functions. | Merged | [#27523](https://github.com/open-metadata/OpenMetadata/pull/27523) |
+| Added opt-in support for discovering **Oracle Global Temporary Tables** during metadata ingestion. | Open | [#27528](https://github.com/open-metadata/OpenMetadata/pull/27528) |
+| Fixed `botUser` field handling for the **Bots API list endpoint**. | Open | [#27527](https://github.com/open-metadata/OpenMetadata/pull/27527) |
+
+---
+
 ## Featured Projects
 
 <details open>
@@ -142,18 +154,6 @@ I enjoy turning messy operational data into trusted analytical products: dimensi
 | **Repository** | [github.com/kratipaliwal/Real-Time-Data-Pipeline](https://github.com/kratipaliwal/Real-Time-Data-Pipeline) |
 
 </details>
-
----
-
-## Engineering Focus
-
-| Area | What I Build |
-|---|---|
-| **Data Platforms** | Dimensional warehouses, semantic views, governed analytics layers |
-| **Pipeline Engineering** | Batch and streaming ETL/ELT with validation, orchestration, and monitoring |
-| **AI for Data Workflows** | RAG systems, document intelligence, natural-language querying, LLM evaluation |
-| **Cloud Systems** | Data lake staging, infrastructure as code, containerized services, event-driven patterns |
-| **Analytics Products** | Power BI and self-service analytics workflows that reduce manual reporting effort |
 
 ---
 
