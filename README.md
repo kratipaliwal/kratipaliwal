@@ -48,11 +48,11 @@
 
 ## About
 
-I am a **Data and Software Engineer** focused on building reliable data platforms, distributed pipelines, and AI-driven systems. My work sits at the intersection of **cloud data engineering**, **analytics engineering**, and **applied AI**, with a strong bias toward systems that are production-ready, observable, and useful to real teams.
+Hi there, I'm **Krati Paliwal**. I work across **data engineering**, **software engineering**, and **AI-driven systems**, with a focus on building reliable data platforms, distributed pipelines, and production-ready analytics workflows.
 
 I enjoy turning messy operational data into trusted analytical products: dimensional warehouses, semantic layers, RAG workflows, streaming pipelines, and dashboards that reduce manual effort. Recently, I have been building with **Snowflake Cortex AI**, **Document AI**, **Databricks**, **FastAPI**, **vector databases**, and modern cloud-native data tooling.
 
-**Open to:** Data Engineering roles · Software Engineering roles · AI/Data Platform Engineering · Cloud Data Systems
+**Open to:** Data Engineering roles | Software Engineering roles | AI/Data Platform Engineering | Cloud Data Systems
 
 ---
 
@@ -169,7 +169,6 @@ I enjoy turning messy operational data into trusted analytical products: dimensi
 
 **University of Florida**  
 Master of Science in Management Information Systems, Data Science  
-Two-time recipient, Academic Excellence Directors' Award
 
 **University of Mumbai**  
 Bachelor of Engineering in Information Technology
@@ -194,48 +193,6 @@ Exploring:
   - Multi-modal retrieval across documents, tables, and images
   - Event-driven architectures for high-volume data products
 ```
-
----
-
-## GitHub Analytics
-
-<div align="center">
-
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=kratipaliwal&show_icons=true&theme=tokyonight&border_radius=10&hide_border=false&include_all_commits=true&count_private=true" />
-&nbsp;
-<img height="175" src="https://github-readme-streak-stats.herokuapp.com/?user=kratipaliwal&theme=tokyonight&border_radius=10&hide_border=false" />
-
-<br/><br/>
-
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kratipaliwal&layout=compact&theme=tokyonight&border_radius=10&hide_border=false&langs_count=8" />
-
-</div>
-
----
-
-## Connect
-
-<div align="center">
-
-<a href="mailto:kratipaliwal10@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-kratipaliwal10@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/kratipaliwal" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-kratipaliwal-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://linkedin.com/in/yourprofile" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-Krati_Paliwal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://kratipaliwal.netlify.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-Krati_Paliwal-14B8A6?style=for-the-badge&logo=netlify&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
 
 <div align="center">
 
