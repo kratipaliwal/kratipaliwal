@@ -34,12 +34,6 @@
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=kratipaliwal&color=2563EB&style=flat-square&label=Profile+Views"/>
-&nbsp;
-<img src="https://img.shields.io/github/followers/kratipaliwal?style=flat-square&color=14B8A6&label=Followers"/>
-&nbsp;
-<img src="https://img.shields.io/github/stars/kratipaliwal?style=flat-square&color=38BDF8&label=Stars"/>
-
 </div>
 
 <br/>
@@ -195,8 +189,6 @@ Exploring:
 ```
 
 <div align="center">
-
-*Building data systems that make analytics faster, cleaner, and more intelligent.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:14b8a6,50:2563eb,100:0f172a&height=120&section=footer" width="100%"/>
 
